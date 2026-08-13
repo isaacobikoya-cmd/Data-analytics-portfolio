@@ -7,12 +7,18 @@ Welcome to my data analytics portfolio. This repository contains projects that d
 I am a data analytics professional developing my skills across Excel, SQL, Power BI, Python, and business analysis. I enjoy using data to uncover insights and support better business decisions.
 
 🛠️ Skills & Tools
+
 Microsoft Excel — Data Cleaning, Formulas, Pivot Tables, Dashboards, Data Visualization
+
 SQL — Data Extraction, Filtering, Aggregation, Joins
+
 Power BI — Data Modeling, DAX, Interactive Dashboards
+
 Python — Data Analysis, Data Cleaning, Visualization
+
 Business Analysis — KPI Analysis, Reporting, Business Insights
 📊 Projects
+
 01. Sales Performance Dashboard — Excel
 
 An interactive sales dashboard created using Microsoft Excel to analyze business performance.
